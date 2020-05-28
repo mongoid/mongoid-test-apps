@@ -1,0 +1,5 @@
+---
+development:
+  clients:
+    default:
+      uri: mongodb://localhost:13620/mongoid_test
